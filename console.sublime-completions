@@ -1,0 +1,8 @@
+{
+        "scope": "source.js,source.js.embedded.html,source.coffee",
+
+        "completions":
+        [
+            "debugger"
+        ]
+}

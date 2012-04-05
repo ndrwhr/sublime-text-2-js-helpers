@@ -1,0 +1,10 @@
+[{ 
+    "keys": ["enter"],
+    "command": "insert_snippet",
+    "args": {
+        "contents": "\n* $0"
+    },
+    "context": [
+        { "key": "selector", "operator" : "equal", "operand" : "comment.block"}
+    ]
+}]

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[console.count('$1');$0]]></content>
+    <tabTrigger>c</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
